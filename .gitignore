@@ -1,0 +1,7 @@
+GL Files/
+ProjectOpenGL/Debug/
+*.sln
+*.opendb
+*.db
+*.vcxproj
+*.filters
