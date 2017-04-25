@@ -5,3 +5,5 @@ ProjectOpenGL/Debug/
 *.db
 *.vcxproj
 *.filters
+ProjectOpenGL/.vs/
+UnitTests/Debug/
